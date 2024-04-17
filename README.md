@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-https://react-animated-portfolio-2pnnr7d60-gc-familys-projects.vercel.app/
+https://react-animated-portfolio-six.vercel.app/
